@@ -1,2 +1,1 @@
-Min
-Version Control
+Min Version Control
